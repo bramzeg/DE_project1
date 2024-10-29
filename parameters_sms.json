@@ -1,8 +1,8 @@
 {
-  "project_id": "de2024-435509",
-  "data_bucket": "data_de2024_bz",
-  "dataset_uri":"gs://data_de2024_bz/SMS_preporcessed.csv",
-  "model_repo":"models_de2024_bz",
+  "project_id": "de2024-collin",
+  "data_bucket": "de2024group14jads",
+  "dataset_uri":"gs://de2024group14jads/SMS_preporcessed.csv",
+  "model_repo":"de2024group14jads_model",
   "thresholds_dict_str":"{\"roc\":0.8}",
-  "model_repo_uri":"gs://models_de2024_bz"
+  "model_repo_uri":"gs://de2024group14jads_model"
 }
